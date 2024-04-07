@@ -18,3 +18,5 @@ Tailoring the description:
 You can tailor the description further to target specific audiences on LinkedIn.
 For example, if targeting students, emphasize the time-saving and learning benefits.
 If targeting professionals, highlight the tool's productivity and knowledge capture capabilities.
+
+https://github.com/Shiva008/YouTube-transcript-to-detailed-Notes-Converter/issues/1#issue-2229843373
