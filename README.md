@@ -19,4 +19,7 @@ You can tailor the description further to target specific audiences on LinkedIn.
 For example, if targeting students, emphasize the time-saving and learning benefits.
 If targeting professionals, highlight the tool's productivity and knowledge capture capabilities.
 
-https://github.com/Shiva008/YouTube-transcript-to-detailed-Notes-Converter/issues/1#issue-2229843373
+
+![Screenshot (66)](https://github.com/Shiva008/YouTube-transcript-to-detailed-Notes-Converter/assets/91310677/1d5347cc-7f7a-41cc-b6b9-80c91bad75d5)
+![Screenshot (65)](https://github.com/Shiva008/YouTube-transcript-to-detailed-Notes-Converter/assets/91310677/27bd03dc-6703-4f21-8bcc-bc3ee6256a0a)
+![Screenshot (64)](https://github.com/Shiva008/YouTube-transcript-to-detailed-Notes-Converter/assets/91310677/4b4b80d8-ed3b-4f13-b636-885a99f1ccfc)
